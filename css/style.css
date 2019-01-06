@@ -1,0 +1,108 @@
+.column1{
+	float: left;
+    width: 50%;
+	background: gray;
+	height: 500px;
+	border:15px; 
+	border-collapse:collapse; 
+	margin:auto;
+	border: 2px;
+}
+
+h1{
+	font-family: arial;
+	padding: 10px;
+	color: white;
+	border-radius:5px;
+	text-align:center;
+	
+}
+
+.column2{
+	float: right;
+    width: 50%;
+	background:white;
+	height: 500px;
+}
+
+.form-control{
+	
+border: 2px solid rgba(255, 255, 255, 0.2);
+margin-top: 30px;
+
+}
+.entries{
+	background: #abcdef;
+	padding-left:50px;
+	border:2px dotted white;
+	border-radius: 10px;
+
+}
+.setbox{
+	padding-left:55px;
+	padding-right:55px;
+}
+.form-group{
+	padding-left: 70px;
+	}
+form{
+	padding:10px;
+	border:2px dotted white;
+	margin: 7px;
+}
+input{
+	padding:8px;
+	margin:2px;
+	border-radius:5px;
+	border: none;
+}
+input[type=text],input[type=mail]{
+	width: 90%;
+}
+
+input[type=submit]{
+	width:60%;
+	background:red;
+	cursor:pointer;
+	font-size:15px;
+	font-weight:bold;
+	color:white;
+}
+input[type=submit] :hover{
+	background:orange;
+}
+
+.column2{
+	float: right;
+    width: 50%;
+	background:gray;
+	height: 500px;
+}
+
+.displaybox{
+	padding-left:55px;
+	padding-right:55px;
+}
+.id-displays{
+	background: #abcdef;
+	padding-left:50px;
+	border:2px dotted white;
+	border-radius: 10px;
+}
+.display-content{
+	padding-top: 85px;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
